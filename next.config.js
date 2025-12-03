@@ -1,0 +1,1 @@
+/** Next config **/ module.exports = {};

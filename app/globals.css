@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Great+Vibes&family=Pacifico&family=Shadows+Into+Light&display=swap');
+
+:root{
+  --accent: #ff4d8d;
+}
+html,body,#__next{height:100%}
+body{margin:0;font-family:Inter,ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,"Helvetica Neue",Arial;background:linear-gradient(180deg,#fff0f6 0%,#fff 100%);}
+.a4 { width:210mm; height:297mm; background: white; box-shadow:0 8px 30px rgba(0,0,0,0.08); border-radius:8px; overflow:hidden; position:relative; }
+.element-img { display:block; width:100%; height:100%; object-fit:cover; }
+.frame-polaroid{ padding:12px; background:#fff; box-shadow:0 6px 18px rgba(0,0,0,0.06); border-radius:8px; }

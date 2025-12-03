@@ -1,0 +1,25 @@
+{
+  "name": "love-studio-a4",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "14.1.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "styled-components": "^5.3.10",
+    "react-color": "^2.19.3",
+    "html2canvas": "^1.4.1",
+    "jspdf": "^2.5.1",
+    "interactjs": "^1.10.11"
+  },
+  "devDependencies": {
+    "autoprefixer": "10.4.16",
+    "postcss": "8.4.32",
+    "tailwindcss": "3.4.1"
+  }
+}
